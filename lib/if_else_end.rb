@@ -1,6 +1,6 @@
-current_time.to_i % 2 = Time.now
+current_time = Time.now
 
-if Time.now = 0
+if current_time.to_i % 2 = 0
   puts "Even!"
 else
   puts "Odd!"

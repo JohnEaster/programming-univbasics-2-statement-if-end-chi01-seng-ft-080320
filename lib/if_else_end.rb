@@ -1,8 +1,8 @@
-chance_of_rain = 0.2
+chance_of_rain = 1
 puts "Let's go outside!"
 if chance_of_rain > 0.5
   puts "Pack and umbrella!"
 else
-  puts "Enjoy the find day!"
+  puts "Enjoy the fine day!"
 end 
 puts "Oh, and always wear sunscreen!"
